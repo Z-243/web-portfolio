@@ -34,6 +34,8 @@ A sleek and responsive Ecommerce platform built with **Next.js**, **Tailwind CSS
 
 [Push Cart](https://clear-mode.netlify.app/)
 
+---
+
 ### 🔹 Subscription Tracker App  
 A modern app built with **Next.js**, **Tailwind CSS**, and **Firebase** that helps users manage and analyze their subscription spending.
 
