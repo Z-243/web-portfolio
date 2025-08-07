@@ -23,6 +23,17 @@ Hi! I'm Shrey, a passionate web developer focused on building intuitive, visuall
 
 ## 💼 Projects
 
+### 🔹 Ecommerce Store  
+A sleek and responsive Ecommerce platform built with **Next.js**, **Tailwind CSS**, and integrated with **Dodo Payments** for secure transactions.
+
+- Browse and search products with modern UI
+- Add to cart, remove, and checkout functionality
+- Seamless payment flow using Dodo Payments API
+- Mobile-first design with fast performance
+- Clean product layout and hover effects
+
+[Push Cart](https://clear-mode.netlify.app/)
+
 ### 🔹 Subscription Tracker App  
 A modern app built with **Next.js**, **Tailwind CSS**, and **Firebase** that helps users manage and analyze their subscription spending.
 
