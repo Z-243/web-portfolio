@@ -1,4 +1,4 @@
-# 🌐 Web Portfolio by [Your Name]
+# 🌐 Web Portfolio by Shrey
 
 Welcome to my personal web portfolio — a showcase of my projects, skills, and creativity as a web developer. This portfolio is a clean, modern, and responsive website built with HTML, CSS, and JavaScript to highlight what I do and how I do it.
 
