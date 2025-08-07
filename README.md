@@ -12,16 +12,34 @@ Hi! I'm Shrey, a passionate web developer focused on building intuitive, visuall
 
 ## 🛠️ Skills
 
-| Front-End      | Tools & Platforms   | Others              |
-|----------------|---------------------|----------------------|
-| HTML5          | Git & GitHub        | Responsive Design    |
-| CSS3           | VS Code             | Cross-Browser Testing|
-| JavaScript     | Figma (UI Mockups)  | Debugging            |
-| Tailwind CSS   | Netlify / Vercel    | Accessibility (a11y) |
+| **Frontend** | **Backend** | **Tools & Platforms**     | **Other**             |
+| ------------ | ----------- | ------------------------- | --------------------- |
+| HTML5        | Node.js     | Git & GitHub              | Responsive Design     |
+| CSS3         | Express.js  | VS Code                   | Cross-Browser Testing |
+| Tailwind CSS | Firebase    | Docker                    | Debugging             |
+| JavaScript   | PostgreSQL  | Netlify / Vercel / Render | Accessibility (a11y)  |
+| React.js     |             | AWS Amplify               |                       |
+| Next.js      |             |                           |                       |
+| Vue.js       |             |                           |                       |
+| Svelte       |             |                           |                       |
+
 
 ---
 
 ## 💼 Projects
+
+### 🔹 Ecommerce Store  
+A sleek and responsive Ecommerce platform built with **Next.js**, **Tailwind CSS**, and integrated with **Dodo Payments** for secure transactions.
+
+- Browse and search products with modern UI
+- Add to cart, remove, and checkout functionality
+- Seamless payment flow using Dodo Payments API
+- Mobile-first design with fast performance
+- Clean product layout and hover effects
+
+[Push Cart](https://clear-mode.netlify.app/)
+
+---
 
 ### 🔹 Subscription Tracker App  
 A modern app built with **Next.js**, **Tailwind CSS**, and **Firebase** that helps users manage and analyze their subscription spending.
