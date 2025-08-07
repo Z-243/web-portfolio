@@ -59,7 +59,7 @@ You’ll find it embedded directly on the portfolio — try giving it a shot!
 
 - 📧 Email: [shc5747@gmail.com](mailto:shc5747@gmail.com)
 - 🌐 Website: [web-portfi.netlify.app](https://web-portfi.netlify.app/)
-- 💼 LinkedIn: [linkedin.com/in/shrey-c-]https://www.linkedin.com/in/shrey-c-/)
+- 💼 LinkedIn: [linkedin.com/in/shrey-c-](https://www.linkedin.com/in/shrey-c-/)
 - 🐙 GitHub: [github.com/Z-243](https://github.com/Z-243)
 
 ---
