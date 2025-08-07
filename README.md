@@ -12,12 +12,17 @@ Hi! I'm Shrey, a passionate web developer focused on building intuitive, visuall
 
 ## 🛠️ Skills
 
-| Front-End      | Tools & Platforms   | Others              |
-|----------------|---------------------|----------------------|
-| HTML5          | Git & GitHub        | Responsive Design    |
-| CSS3           | VS Code             | Cross-Browser Testing|
-| JavaScript     | Figma (UI Mockups)  | Debugging            |
-| Tailwind CSS   | Netlify / Vercel    | Accessibility (a11y) |
+| **Frontend** | **Backend** | **Tools & Platforms**     | **Other**             |
+| ------------ | ----------- | ------------------------- | --------------------- |
+| HTML5        | Node.js     | Git & GitHub              | Responsive Design     |
+| CSS3         | Express.js  | VS Code                   | Cross-Browser Testing |
+| Tailwind CSS | Firebase    | Docker                    | Debugging             |
+| JavaScript   | PostgreSQL  | Netlify / Vercel / Render | Accessibility (a11y)  |
+| React.js     |             | AWS Amplify               |                       |
+| Next.js      |             |                           |                       |
+| Vue.js       |             |                           |                       |
+| Svelte       |             |                           |                       |
+
 
 ---
 
