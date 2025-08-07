@@ -58,12 +58,12 @@ You’ll find it embedded directly on the portfolio — try giving it a shot!
 ## 📬 Contact
 
 - 📧 Email: [shc5747@gmail.com](mailto:shc5747@gmail.com)
-- 🌐 Website: [yourportfolio.com](https://yourportfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/shrey-c-/)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/Z-243)
+- 🌐 Website: [web-portfi.netlify.app](https://web-portfi.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/shrey-c-]https://www.linkedin.com/in/shrey-c-/)
+- 🐙 GitHub: [github.com/Z-243](https://github.com/Z-243)
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [WebPortfolio](https://main.d3tey1bstzltb.amplifyapp.com/)
+👉 [WebPortfolio](https://web-portfi.netlify.app/)
