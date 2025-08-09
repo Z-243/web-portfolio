@@ -84,4 +84,4 @@ You’ll find it embedded directly on the portfolio — try giving it a shot!
 
 ## 🚀 Live Demo
 
-👉 [WebPortfolio](https://web-portfi.netlify.app/)
+👉 [Web Portfolio](https://web-portfi.netlify.app/)
